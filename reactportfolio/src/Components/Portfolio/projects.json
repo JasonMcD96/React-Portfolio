@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "title": "Meal Maker",
+        "github": "https://github.com/JasonMcD96/Meal-Maker",
+        "deploy": "https://jasonmcd96.github.io/Meal-Maker/",
+        "img": "https://github.com/JasonMcD96/React-Portfolio/blob/main/reactportfolio/src/Images/mealMaker.png?raw=true"
+    },
+    {
+        "id": 2,
+        "title": "Work Day Scheduler",
+        "github": "https://github.com/JasonMcD96/Work-Day-Scheduler",
+        "deploy": "https://jasonmcd96.github.io/Work-Day-Scheduler/",
+        "img": "https://github.com/JasonMcD96/React-Portfolio/blob/main/reactportfolio/src/Images/workDayScheduler.png?raw=true"
+    },
+    {
+        "id": 3,
+        "title": "Password Generator",
+        "github": "https://github.com/JasonMcD96/Password-Generator",
+        "deploy": "https://jasonmcd96.github.io/Password-Generator/",
+        "img": "https://github.com/JasonMcD96/React-Portfolio/blob/main/reactportfolio/src/Images/passwordGenerator.png?raw=true"
+    },
+    {
+        "id": 4,
+        "title": "Pill Box",
+        "github": "https://github.com/JasonMcD96/Pill-Box",
+        "deploy": "https://infinite-mesa-67411.herokuapp.com",
+        "img": "https://github.com/JasonMcD96/React-Portfolio/blob/main/reactportfolio/src/Images/pillbox.png?raw=true"
+    },
+    {
+        "id": 6,
+        "title": "Employee Tracker",
+        "github": "https://github.com/JasonMcD96/Employee-Tracker",
+        "deploy": "",
+        "img": "https://github.com/JasonMcD96/React-Portfolio/blob/main/reactportfolio/src/Images/employeetracker.png?raw=true"
+    },
+
+    {
+        "id": 7,
+        "title": "Team Profile Generator",
+        "github": "https://github.com/JasonMcD96/Team-Profile-Generator",
+        "deploy": "",
+        "img": "https://github.com/JasonMcD96/React-Portfolio/blob/main/reactportfolio/src/Images/profilegenerator.png?raw=true"
+    },
+
+    {
+        "id": 8,
+        "title": "Eat The Burger",
+        "github": "https://github.com/JasonMcD96/Team-Profile-Generator",
+        "deploy": "https://thawing-fortress-83738.herokuapp.com",
+        "img": "https://github.com/JasonMcD96/Eat-the-Burger/blob/main/public/assets/img/preview.png?raw=true"
+    },
+
+    {
+        "id": 9,
+        "title": "README Generator",
+        "github": "https://github.com/JasonMcD96/README-Generator",
+        "deploy": "",
+        "img": "https://github.com/JasonMcD96/React-Portfolio/blob/main/reactportfolio/src/Images/readmepreview.png?raw=true"
+    }
+]
